@@ -1,8 +1,8 @@
 import React from 'react'
-import Socials from './components/Socials';
+import Socials from './src/components/Socials';
 import 'font-awesome/css/font-awesome.min.css';
-import Resume from './components/Resume'
-import Headshot from './components/Headshot'
+import Resume from './src/components/Resume'
+import Headshot from './src/components/Headshot'
 
 const App = () => {
   const text = "DATA SCIENTIST - TRAVELER - VIBE PROVIDER - DATA SCIENTIST - TRAVELER - VIBE PROVIDER - "
