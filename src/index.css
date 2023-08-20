@@ -20,9 +20,9 @@
 
     --transition: all 400ms ease;
 
-    --container-width-lg: 75%;
-    --container-width-md: 86%;
-    --contaier-width-sm: 90%;
+    --container-width-lg: 70%;
+    --container-width-md: 80%;
+    --contaier-width-sm: 85%;
 }
 
 html {
@@ -58,7 +58,7 @@ body {
     flex-direction: column;
     justify-content: space-between; /* Center vertically */
     align-items: center; /* Center horizontally */
-    height: 100vh; /* Full viewport height */
+    height: 95vh; /* 95% viewport height */
     width: 100vw;
 }
 
