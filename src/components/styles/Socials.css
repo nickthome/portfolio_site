@@ -1,0 +1,19 @@
+
+.social-media-bar {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+.social-media-bar a {
+    position: relative;
+    width: 48px;  /* updated width for larger icon */
+    height: 48px;  /* updated height for larger icon */
+    display: inline-block;
+    color: var(--color-primary); /* Using primary color from :root */
+    transition: var(--transition);
+}
+
+.social-media-bar a:hover {
+    color: var(--color-primary-variant); /* Using primary variant color from :root for hover state */
+}
