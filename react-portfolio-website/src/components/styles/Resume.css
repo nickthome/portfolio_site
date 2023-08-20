@@ -1,9 +1,0 @@
-.download-link {
-    text-decoration: none; /* Removes the underline */
-    color: inherit; /* Uses the parent's color */
-}
-
-.download-link h5 {
-    cursor: pointer; /* Changes the cursor to a hand when hovering over the h5 */
-    /* Add any other styles you want for the h5 here */
-}
